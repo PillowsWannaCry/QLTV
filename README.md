@@ -22,4 +22,6 @@ của chương trình.
 * Ngày tháng xuất bản
 * Số trang
 * Số bản copy
-
+* #### SƠ ĐỒ PHÂN TÁCH CHỨC NĂNG:
+>
+[anh](https://drive.google.com/file/d/1uwE0YBdp6T-hhcmx-JD6aYaNlTZZzTHO/view?usp=drive_link)
